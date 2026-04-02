@@ -10,7 +10,7 @@ A plugin using js-beautify to de-minimize JS and CSS in BBEdit
 
 `install.sh`
 
-### manually
+### manual:
 
 1) Open BBeautify.py in this repo
 2) Tap [...] and "Download" or press <kbd>⌘</kbd><kbd>shift</kbd><kbd>s</kbd>
